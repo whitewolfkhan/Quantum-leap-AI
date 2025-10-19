@@ -40,7 +40,7 @@ A powerful, AI-powered system that leverages massive, pre-trained Transformer mo
 
 ## 🚀 Live Demo
 
-Check out the live application here: **[https://your-app-url-here.streamlit.app](https://quantum-leap-ai.streamlit.app/)**
+Check out the live application here: **[Q.AI](https://quantum-leap-ai.streamlit.app/)**
 
 ## 📋 How to Run Locally
 
