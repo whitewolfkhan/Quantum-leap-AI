@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+sentencepiece
+protobuf
+keybert
+sentence-transformers

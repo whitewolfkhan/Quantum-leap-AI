@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Streamlit: Debug App",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "/path/to/your/venv/bin/streamlit", // IMPORTANT: See setup instructions below
+            "args": [
+                "run",
+                "${workspaceFolder}/app.py",
+                "--server.port",
+                "8501"
+            ],
+            "jinja": true,
+            "justMyCode": false,
+            "console": "integratedTerminal"
+        }
+    ]
+}
